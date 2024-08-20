@@ -1,0 +1,5 @@
+Name,Age,Occupation,AgeCategory,AvgOccupationAge,AgeDifference
+Cathy,29,Data Analyst,Jovem,29.0,0.0
+Bob,45,Data Engineer,Senior,45.0,0.0
+Alice,34,Data Scientist,Adulto,34.5,-0.5
+David,35,Data Scientist,Adulto,34.5,0.5
