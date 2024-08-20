@@ -6,3 +6,15 @@ Todo o descritivo do teste, bem como de suas 5 etapas, pode ser encontrado no ar
 
 
 Foi feita a opção por utilizar a ferramenta Jupyter Notebook para realização do teste, uma vez que é possível plotar e persistir as saídas dos blocos de código: [Resolução do Teste Técnico](test.ipynb)
+
+---
+**Para replicação da execução do teste técnico, recomenda-se os seguintes passos**:
+- Clone deste repositório para a máquina local
+- Criação de um ambiente virtual python: *python -m venv "nome do ambiente"*
+- Ativação do ambiente virtual criado: *"nome do ambiente"/Scripts/activate*
+- Instalação das bibliotecas nas mesmas versões utilizadas pelo autor: *pip install -r requirements.txt*
+
+---
+**Contatos**
+- e-mail: jwl.mota@gmail.com
+- linkedin: https://www.linkedin.com/in/josewalterlima/
