@@ -9,7 +9,7 @@ Foi feita a opção por utilizar a ferramenta Jupyter Notebook para realização
 
 ---
 **Para replicação da execução do teste técnico, recomenda-se os seguintes passos**:
-- Clone deste repositório para a máquina local
+- Clone deste repositório para a máquina local: *git clone https://github.com/JoseWalterLima/test-act-digital.git*
 - Criação de um ambiente virtual python: *python -m venv "nome do ambiente"*
 - Ativação do ambiente virtual criado: *"nome do ambiente"/Scripts/activate*
 - Instalação das bibliotecas nas mesmas versões utilizadas pelo autor: *pip install -r requirements.txt*
